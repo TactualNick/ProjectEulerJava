@@ -1,9 +1,9 @@
 package com.nickgent;
 
-import com.nickgent.problem.Problem1;
+import com.nickgent.problem.*;
 
 public class ProjectEuler {
     public static void main(String[] args) {
-        Problem1.solve(1000);
+        Problem2.solve(4000000);
     }
 }
