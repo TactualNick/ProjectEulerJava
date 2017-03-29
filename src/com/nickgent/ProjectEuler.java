@@ -4,6 +4,6 @@ import com.nickgent.problem.*;
 
 public class ProjectEuler {
     public static void main(String[] args) {
-        Problem2.solve(4000000);
+        Problem3.findLargestPrimeFactor(600851475143L);
     }
 }
